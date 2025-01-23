@@ -1,0 +1,31 @@
+{
+    "extension_mappings": {
+        "Images": [
+            ".png",
+            ".jpg",
+            ".jpeg",
+            ".gif",
+            ".bmp",
+            ".svg"
+        ],
+        "Documents": [
+            ".pdf",
+            ".docx",
+            ".doc",
+            ".xlsx",
+            ".pptx",
+            ".txt"
+        ],
+        "Archives": [
+            ".zip",
+            ".rar",
+            ".7z",
+            ".tar",
+            ".gz"
+        ]
+    },
+    "last_folders": {
+        "downloads": "",
+        "duplicates": "C:/Users/Administrator/Desktop"
+    }
+}
